@@ -147,9 +147,9 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
    <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
+  
   <h2>Step 8: Observe DNS Traffic</h2>
   <p>
-    
     1. Filter Wireshark to display DNS traffic only.<br>
     2. From the Windows 10 VM's command line, use nslookup to query the IP addresses of websites like google.com and disney.com.<br>
     3. Observe the DNS traffic displayed in Wireshark.
