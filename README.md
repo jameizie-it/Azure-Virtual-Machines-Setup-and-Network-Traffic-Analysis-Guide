@@ -50,7 +50,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/b9fbGD3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 2: Create a Windows 10 Virtual Machine (VM)</h2>
@@ -66,7 +66,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/weMu3EC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 3: Create a Linux (Ubuntu) VM</h2>
@@ -80,7 +80,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/H6kyaFt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 4: Observe ICMP Traffic</h2>
@@ -105,7 +105,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/qiWtzfQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 5: Re-enable ICMP Traffic</h2>
@@ -117,7 +117,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/0OIuaG6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 6: Observe SSH Traffic</h2>
@@ -130,7 +130,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/3Cdq22r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 7: Observe DHCP Traffic</h2>
@@ -141,7 +141,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/WrZfDTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 8: Observe DNS Traffic</h2>
@@ -152,7 +152,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/gu4BScu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 9: Observe RDP Traffic</h2>
@@ -162,7 +162,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   </p>
   
    <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/wDnE1oq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 10: Closing</h2>
