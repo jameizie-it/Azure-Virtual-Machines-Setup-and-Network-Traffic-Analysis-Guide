@@ -158,7 +158,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
   <h2>Step 9: Observe RDP Traffic</h2>
   <p>
     1. Filter Wireshark to display RDP traffic only (tcp.port == 3389).<br>
-    2. Observe the continuous stream of RDP traffic and discuss the reason for its constant transmission.
+    2. Observe the continuous stream of RDP traffic. The reason there is continous traffic is because you are connected to the remote desktop.
   </p>
   
    <p>
