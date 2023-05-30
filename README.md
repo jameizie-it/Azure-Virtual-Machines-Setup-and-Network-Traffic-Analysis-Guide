@@ -39,10 +39,6 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
 <body>
   <h1>Step-by-Step Guide: Setting up Azure Virtual Machines and Analyzing Network Traffic</h1>
  
-  <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
-  
   <h2>Step 1: Create a Resource Group within Azure</h2>
   <p>
     1. Sign in to the Azure portal.<br>
