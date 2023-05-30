@@ -18,7 +18,7 @@ This step-by-step guide provides instructions for setting up Azure Virtual Machi
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Overview of Steps:</h2>
 
 - Step 1: Create a Resource Group within Azure. <br>
 - Step 2: Create a Windows 10 Virtual Machine (VM).<br>
